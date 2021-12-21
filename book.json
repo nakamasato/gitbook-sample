@@ -1,0 +1,16 @@
+{
+    "plugins": [
+        "sequence-diagrams",
+        "flowchart",
+        "plantuml",
+        "ga"
+    ],
+    "pluginsConfig": {
+        "sequence-diagrams": {
+            "theme": "simple"
+        },
+        "ga": {
+            "token": ""
+        }
+    }
+}
