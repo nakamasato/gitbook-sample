@@ -46,16 +46,6 @@ npm install gitbook-plugin-sequence-diagrams gitbook-plugin-flowchart gitbook-pl
 ```
 ### Fundamentals: Dive a little deeper
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="kubernetes-operator/what-is-kubernetes-operator.md" %}
-[what-is-kubernetes-operator.md](kubernetes-operator/what-is-kubernetes-operator.md)
-{% endcontent-ref %}
-
-{% content-ref url="kubernetes-operator/kubernetes-operator-components.md" %}
-[kubernetes-operator-components.md](kubernetes-operator/kubernetes-operator-components.md)
-{% endcontent-ref %}
-
 error: error while generating page "README.md":
 Template render error: (/Users/masato-naka/repos/nakamasato/gitbook-sample/README.md) [Line 14, Column 4]
   unknown block tag: content
